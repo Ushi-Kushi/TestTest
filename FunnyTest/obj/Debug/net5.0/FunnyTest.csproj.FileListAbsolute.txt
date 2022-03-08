@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\bin\Debug\net5.0\FunnyTest.exe
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\bin\Debug\net5.0\FunnyTest.deps.json
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\bin\Debug\net5.0\FunnyTest.runtimeconfig.json
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\bin\Debug\net5.0\FunnyTest.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\bin\Debug\net5.0\FunnyTest.dll
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\bin\Debug\net5.0\FunnyTest.pdb
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\obj\Debug\net5.0\FunnyTest.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\obj\Debug\net5.0\FunnyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\obj\Debug\net5.0\FunnyTest.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\obj\Debug\net5.0\FunnyTest.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\obj\Debug\net5.0\FunnyTest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\obj\Debug\net5.0\FunnyTest.dll
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\obj\Debug\net5.0\refint\FunnyTest.dll
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\obj\Debug\net5.0\FunnyTest.pdb
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\obj\Debug\net5.0\FunnyTest.genruntimeconfig.cache
+C:\Users\Asus\source\repos\FunnyTest\FunnyTest\obj\Debug\net5.0\ref\FunnyTest.dll
